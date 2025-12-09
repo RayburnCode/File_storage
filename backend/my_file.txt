@@ -1,0 +1,3 @@
+Hello from the terminal!
+This is line 2.
+This is line 3.
